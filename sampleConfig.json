@@ -1,0 +1,13 @@
+{
+    "aws": {
+        "accessKeyId": "",
+        "secretAccessKey": "",
+        "apiVersion": "",
+        "region": ""
+    },
+    "queueUrls": {
+        "input": "",
+        "response": ""
+    },
+    "s3Bucket": ""
+}
